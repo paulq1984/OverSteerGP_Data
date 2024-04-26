@@ -14,7 +14,8 @@
     "base": "FRA",
     "tp": "Bruno Famin",
     "test_drivers": ["Jack Doohan"],
-    "team_url": "https://www.alpine-cars.co.uk/formula-1.html"
+    "team_url": "https://www.alpine-cars.co.uk/formula-1.html",
+    "logo": "alpine-f1-team-logo-1"
   },
   {
     "id": 2,
@@ -31,7 +32,8 @@
     "base": "GBR",
     "tp": "Mike Krack",
     "test_drivers": ["Felipe Drugovich", "Stoffel Vandoorne"],
-    "team_url": "https://www.astonmartinf1.com/"
+    "team_url": "https://www.astonmartinf1.com/",
+    "logo": "aston-martin-cognizant-f1-team-1"
   },
   {
     "id": 3,
@@ -48,7 +50,8 @@
     "base": "ITA",
     "tp": "Frédéric Vasseur",
     "test_drivers": ["Antonio Giovinazzi", "Robert Shwartzman", "Oliver Bearman"],
-    "team_url": "https://www.ferrari.com/formula1"
+    "team_url": "https://www.ferrari.com/formula1",
+    "logo":"scuderia-ferrari-logo-1"
   },
   {
     "id": 4,
@@ -65,7 +68,8 @@
     "base": "USA",
     "tp": "Ayao Komatsu",
     "test_drivers": ["Oliver Bearman", "Pietro Fittipaldi"],
-    "team_url": "https://www.haasf1team.com/"
+    "team_url": "https://www.haasf1team.com/",
+    "logo": "haas-logo-1"
   },
   {
     "id": 5,
@@ -82,7 +86,8 @@
     "base": "SUI",
     "tp": "Andreas Seidl",
     "test_drivers": ["Théo Pourchaire", "Zane Maloney"],
-    "team_url": "https://www.sauber-group.com/"
+    "team_url": "https://www.sauber-group.com/",
+    "logo": "logo-stakef1team-rgb-pos-1"
   },
   {
     "id": 6,
@@ -99,7 +104,8 @@
     "base": "GBR",
     "tp": "Zak Brown",
     "test_drivers": ["Pato O'Ward", "Ryō Hirakawa"],
-    "team_url": "https://www.mclaren.com/racing/formula-1/"
+    "team_url": "https://www.mclaren.com/racing/formula-1/",
+    "logo": "mclaren-f1-team-logo-1"
   },
   {
     "id": 7,
@@ -116,7 +122,8 @@
     "base": "GER",
     "tp": "Toto Wolff",
     "test_drivers": ["Mick Schumacher", "Frederik Vestia"],
-    "team_url": "https://www.mercedesamgf1.com/en/"
+    "team_url": "https://www.mercedesamgf1.com/en/",
+    "logo":"mercedes-f1-logo-1"
   },
   {
     "id": 8,
@@ -133,7 +140,8 @@
     "base": "ITA",
     "tp": "Laurent Mekies",
     "test_drivers": ["Liam Lawson"],
-    "team_url": "http://visacashapprb.com/"
+    "team_url": "http://visacashapprb.com/",
+    "logo" : "visa-cash-app-rb-logo"
   },
   {
     "id": 9,
@@ -150,7 +158,8 @@
     "base": "AUT",
     "tp": "Christian Horner",
     "test_drivers": ["Liam Lawson"],
-    "team_url": "https://redbullracing.com/"
+    "team_url": "https://redbullracing.com/",
+    "logo" : "red-bull-racing-logo-1"
   },
   {
     "id": 10,
@@ -167,6 +176,7 @@
     "base": "GBR",
     "tp": "James Vowles",
     "test_drivers": ["Liam Lawson"],
-    "team_url": "https://www.williamsf1.com/"
+    "team_url": "https://www.williamsf1.com/",
+    "logo" : "williams-racing-logo-1"
   }
 ]
