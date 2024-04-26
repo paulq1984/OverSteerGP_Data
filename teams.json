@@ -9,13 +9,12 @@
       10, 31
     ],
     "colors": [
-      "#02192B", "#2173B8"
+      "Alpine1", "Alpine2"
     ],
     "base": "FRA",
     "tp": "Bruno Famin",
     "test_drivers": ["Jack Doohan"],
-    "team_url": "https://www.alpine-cars.co.uk/formula-1.html",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Logo_of_alpine_f1_team_2022.png/440px-Logo_of_alpine_f1_team_2022.png"
+    "team_url": "https://www.alpine-cars.co.uk/formula-1.html"
   },
   {
     "id": 2,
@@ -27,13 +26,12 @@
       14, 18
     ],
     "colors": [
-      "#002420", "#ffffff"
+      "AM1", "AM2"
     ],
     "base": "GBR",
     "tp": "Mike Krack",
     "test_drivers": ["Felipe Drugovich", "Stoffel Vandoorne"],
-    "team_url": "https://www.astonmartinf1.com/",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Aston_Martin_Aramco_2024_logo.png/440px-Aston_Martin_Aramco_2024_logo.png"
+    "team_url": "https://www.astonmartinf1.com/"
   },
   {
     "id": 3,
@@ -45,13 +43,12 @@
       16, 55, 38
     ],
     "colors": [
-      "#ef1a2d", "#ffff200"
+      "Ferrari1", "Ferrari2"
     ],
     "base": "ITA",
     "tp": "Frédéric Vasseur",
     "test_drivers": ["Antonio Giovinazzi", "Robert Shwartzman", "Oliver Bearman"],
-    "team_url": "https://www.ferrari.com/formula1",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Scuderia_Ferrari_Logo.svg/160px-Scuderia_Ferrari_Logo.svg.png"
+    "team_url": "https://www.ferrari.com/formula1"
   },
   {
     "id": 4,
@@ -63,13 +60,12 @@
       20, 27
     ],
     "colors": [
-      "#e6002b", "#ffffff"
+      "Haas1", "Haas2"
     ],
     "base": "USA",
     "tp": "Ayao Komatsu",
     "test_drivers": ["Oliver Bearman", "Pietro Fittipaldi"],
-    "team_url": "https://www.haasf1team.com/",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/MoneyGram_Haas_F1_Team_Logo.svg/440px-MoneyGram_Haas_F1_Team_Logo.svg.png"
+    "team_url": "https://www.haasf1team.com/"
   },
   {
     "id": 5,
@@ -81,13 +77,12 @@
       24, 77
     ],
     "colors": [
-      "#52e252", "#000000"
+      "Kick1", "Kick2"
     ],
     "base": "SUI",
     "tp": "Andreas Seidl",
     "test_drivers": ["Théo Pourchaire", "Zane Maloney"],
-    "team_url": "https://www.sauber-group.com/",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logo_of_Stake_F1_Team_Kick_Sauber.png/440px-Logo_of_Stake_F1_Team_Kick_Sauber.png"
+    "team_url": "https://www.sauber-group.com/"
   },
   {
     "id": 6,
@@ -99,13 +94,12 @@
       4, 81
     ],
     "colors": [
-      "#ff80000", "#000000"
+      "Mc1", "Mc2"
     ],
     "base": "GBR",
     "tp": "Zak Brown",
     "test_drivers": ["Pato O'Ward", "Ryō Hirakawa"],
-    "team_url": "https://www.mclaren.com/racing/formula-1/",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/McLaren_Racing_logo.svg/440px-McLaren_Racing_logo.svg.png"
+    "team_url": "https://www.mclaren.com/racing/formula-1/"
   },
   {
     "id": 7,
@@ -117,13 +111,12 @@
       44, 63
     ],
     "colors": [
-      "#c8ccce", "#00a19b"
+      "Merc1", "Merc2"
     ],
     "base": "GER",
     "tp": "Toto Wolff",
     "test_drivers": ["Mick Schumacher", "Frederik Vestia"],
-    "team_url": "https://www.mercedesamgf1.com/en/",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mercedes-Benz_in_Formula_One_logo.svg/440px-Mercedes-Benz_in_Formula_One_logo.svg.png"
+    "team_url": "https://www.mercedesamgf1.com/en/"
   },
   {
     "id": 8,
@@ -135,13 +128,12 @@
       3, 22
     ],
     "colors": [
-      "#00144a", "#ffffff"
+      "VCAB1", "VCAB2"
     ],
     "base": "ITA",
     "tp": "Laurent Mekies",
     "test_drivers": ["Liam Lawson"],
-    "team_url": "http://visacashapprb.com/",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/VCARB_F1_logo.svg/440px-VCARB_F1_logo.svg.png"
+    "team_url": "http://visacashapprb.com/"
   },
   {
     "id": 9,
@@ -153,13 +145,12 @@
       1, 11
     ],
     "colors": [
-      "#000b8d", "#e21b4d"
+      "RBR1", "RBR2"
     ],
     "base": "AUT",
     "tp": "Christian Horner",
     "test_drivers": ["Liam Lawson"],
-    "team_url": "https://redbullracing.com/",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_bull_racing.png"
+    "team_url": "https://redbullracing.com/"
   },
   {
     "id": 10,
@@ -171,12 +162,11 @@
       2, 23
     ],
     "colors": [
-      "#000000", "#00a0de"
+      "Will1", "Will2"
     ],
     "base": "GBR",
     "tp": "James Vowles",
     "test_drivers": ["Liam Lawson"],
-    "team_url": "https://www.williamsf1.com/",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Williams_Racing_2020_logo.png"
+    "team_url": "https://www.williamsf1.com/"
   }
 ]
