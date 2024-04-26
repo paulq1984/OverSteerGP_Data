@@ -105,7 +105,7 @@
     "id": 7,
     "name": "Mercedes-AMG Petronas F1 Team",
     "constructor": "Mercedes",
-    "chassis": "F1 W15",
+    "chassis": "W15",
     "power_unit": "Mercedes-AMG F1 M15",
     "drivers": [
       44, 63
@@ -122,7 +122,7 @@
     "id": 8,
     "name": "Visa Cash App RB F1 Team",
     "constructor": "RB-Honda RBPT",
-    "chassis": "VCARB 01",
+    "chassis": "VCARB01",
     "power_unit": "Honda RBPTH002",
     "drivers": [
       3, 22
