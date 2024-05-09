@@ -4,179 +4,199 @@
     "name": "Pierre Gasly",
     "first_entry": "2017 Malaysian Grand Prix",
     "first_win": "2020 Italian Grand Prix",
-    "team" : "BWT Alpine F1 Team",
+    "team" : "Alpine",
     "country": "FRA",
-    "image": "piegas01"
+    "image": "piegas01",
+    "colors": "Alpine1"
    },
    {
     "id": 31,
     "name": "Esteban Ocon",
     "first_entry": "2016 Belgian Grand Prix",
     "first_win": "2021 Hungarian Grand Prix",
-    "team" : "BWT Alpine F1 Team",
+    "team" : "Alpine",
     "country": "FRA",
-    "image": "estoco01"
+    "image": "estoco01",
+    "colors": "Alpine1"
    },
    {
     "id": 14,
     "name": "Fernando Alonso",
     "first_entry": "2001 Australian Grand Prix",
     "first_win": "2003 Hungarian Grand Prix",
-    "team" : "Aston Martin Aramco-Mercedes",
+    "team" : "Aston Martin",
     "country": "ESP",
-    "image": "feralo01"
+    "image": "feralo01",
+    "colors": "AM1"
    },
    {
     "id": 18,
     "name": "Lance Stroll",
     "first_entry": "2017 Australian Grand Prix",
     "first_win": null,
-    "team" : "Aston Martin Aramco-Mercedes",
+    "team" : "Aston Martin",
     "country": "CAN",
-    "image": "lanstr01"
+    "image": "lanstr01",
+    "colors": "AM1"
    },
    {
     "id": 16,
     "name": "Charles Leclerc",
     "first_entry": "2018 Australian Grand Prix",
     "first_win": "2019 Belgian Grand Prix",
-    "team" : "Scuderia Ferrari",
+    "team" : "Ferrari",
     "country": "MCO",
-    "image": "chalec01"
+    "image": "chalec01",
+    "colors": "Ferrari1"
    },
    {
     "id": 55,
     "name": "Carlos Sainz Jr.",
     "first_entry": "2015 Australian Grand Prix",
     "first_win": "2022 British Grand Prix",
-    "team" : "Scuderia Ferrari",
+    "team" : "Ferrari",
     "country": "ESP",
-    "image": "carsai01"
+    "image": "carsai01",
+    "colors": "Ferrari1"
    },
    {
     "id": 20,
     "name": "Kevin Magnussen",
     "first_entry": "2014 Australian Grand Prix",
     "first_win": null,
-    "team" : "MoneyGram Haas F1 Team",
+    "team" : "Haas",
     "country": "DEN",
-    "image": "kevmag01"
+    "image": "kevmag01",
+    "colors": "Haas1"
    },
    {
     "id": 27,
     "name": "Nico Hülkenberg",
     "first_entry": "2010 Bahrain Grand Prix",
     "first_win": null,
-    "team" : "MoneyGram Haas F1 Team",
+    "team" : "Haas",
     "country": "GER",
-    "image": "nichul01"
+    "image": "nichul01",
+    "colors": "Haas1"
    },
    {
     "id": 24,
     "name": "Zhou Guanyu",
     "first_entry": "2022 Bahrain Grand Prix",
     "first_win": null,
-    "team" : "Stake F1 Team Kick Sauber",
+    "team" : "Kick Sauber",
     "country": "CHN",
-    "image": "guazho01"
+    "image": "guazho01",
+    "colors": "Kick1"
    },
    {
     "id": 77,
     "name": "Valtteri Bottas",
     "first_entry": "2013 Australian Grand Prix",
     "first_win": "2017 Russian Grand Prix",
-    "team" : "Stake F1 Team Kick Sauber",
+    "team" : "Kick Sauber",
     "country": "FIN",
-    "image": "valbot01"
+    "image": "valbot01",
+    "colors": "Kick1"
    },
    {
     "id": 4,
     "name": "Lando Norris",
     "first_entry": "2019 Australian Grand Prix",
     "first_win": "2024 Miami Grand Prix",
-    "team" : "McLaren Formula 1 Team",
+    "team" : "McLaren",
     "country": "GBR",
-    "image": "lannor01"
+    "image": "lannor01",
+    "colors": "Mc1"
    },
    {
     "id": 81,
     "name": "Oscar Piastri",
     "first_entry": "2023 Bahrain Grand Prix",
     "first_win": null,
-    "team" : "McLaren Formula 1 Team",
+    "team" : "McLaren",
     "country": "AUS",
-    "image": "oscpia01"
+    "image": "oscpia01",
+    "colors": "Mc1"
    },
    {
     "id": 44,
     "name": "Lewis Hamilton",
     "first_entry": "2007 Australian Grand Prix",
     "first_win": "2007 Canadian Grand Prix",
-    "team" : "Mercedes-AMG Petronas F1 Team",
+    "team" : "Mercedes",
     "country": "GBR",
-    "image": "lewham01"
+    "image": "lewham01",
+    "colors": "Merc1"
    },
    {
     "id": 63,
     "name": "George Russell",
     "first_entry": "2019 Australian Grand Prix",
     "first_win": "2022 São Paulo Grand Prix",
-    "team" : "Mercedes-AMG Petronas F1 Team",
+    "team" : "Mercedes",
     "country": "GBR",
-    "image": "georus01"
+    "image": "georus01",
+    "colors": "Merc1"
    },
    {
     "id": 3,
     "name": "Daniel Ricciardo",
     "first_entry": "2011 British Grand Prix",
     "first_win": "2014 Canadian Grand Prix",
-    "team" : "Visa Cash App RB F1 Team",
+    "team" : "RB",
     "country": "AUS",
-    "image": "danric01"
+    "image": "danric01",
+    "colors": "VCAB1"
    },
    {
     "id": 22,
     "name": "Yuki Tsunoda",
     "first_entry": "2021 Bahrain Grand Prix",
     "first_win": null,
-    "team" : "Visa Cash App RB F1 Team",
+    "team" : "RB",
     "country": "JPN",
-    "image": "yuktsu01"
+    "image": "yuktsu01",
+    "colors": "VCAB1"
    },
    {
     "id": 1,
     "name": "Max Verstappen",
     "first_entry": "2015 Australian Grand Prix",
     "first_win": "2016 Spanish Grand Prix",
-    "team" : "Oracle Red Bull Racing",
+    "team" : "Red Bull Racing",
     "country": "NLD",
-    "image": "maxver01"
+    "image": "maxver01",
+    "colors": "RBR1"
    },
    {
     "id": 11,
     "name": "Sergio Pérez",
     "first_entry": "2011 Australian Grand Prix",
     "first_win": "2020 Sakhir Grand Prix",
-    "team" : "Oracle Red Bull Racing",
+    "team" : "Red Bull Racing",
     "country": "MEX",
-    "image": "serper01"
+    "image": "serper01",
+    "colors": "RBR1"
    },
    {
     "id": 2,
     "name": "Logan Sargeant",
     "first_entry": "2023 Bahrain Grand Prix",
     "first_win": null,
-    "team" : "Williams Racing",
+    "team" : "Williams",
     "country": "USA",
-    "image": "logsar01"
+    "image": "logsar01",
+    "colors": "Will1"
    },
    {
     "id": 23,
     "name": "Alex Albon",
     "first_entry": "2019 Australian Grand Prix",
     "first_win": null,
-    "team" : "Williams Racing",
+    "team" : "Williams",
     "country": "THA",
-    "image": "alealb01"
+    "image": "alealb01",
+    "colors": "Will1"
    }
   ]

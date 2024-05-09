@@ -8,9 +8,7 @@
     "drivers": [
       10, 31
     ],
-    "colors": [
-      "Alpine1", "Alpine2"
-    ],
+    "colors": "Alpine1",
     "base": "FRA",
     "tp": "Bruno Famin",
     "team_url": "https://www.alpine-cars.co.uk/formula-1.html",
@@ -27,9 +25,7 @@
     "drivers": [
       14, 18
     ],
-    "colors": [
-      "AM1", "AM2"
-    ],
+    "colors": "AM1",
     "base": "GBR",
     "tp": "Mike Krack",
     "team_url": "https://www.astonmartinf1.com/",
@@ -46,9 +42,7 @@
     "drivers": [
       16, 55
     ],
-    "colors": [
-      "Ferrari1", "Ferrari2"
-    ],
+    "colors": "Ferrari1",
     "base": "ITA",
     "tp": "Frédéric Vasseur",
     "team_url": "https://www.ferrari.com/formula1",
@@ -65,9 +59,7 @@
     "drivers": [
       20, 27
     ],
-    "colors": [
-      "Haas1", "Haas2"
-    ],
+    "colors": "Haas1",
     "base": "USA",
     "tp": "Ayao Komatsu",
     "team_url": "https://www.haasf1team.com/",
@@ -84,9 +76,7 @@
     "drivers": [
       24, 77
     ],
-    "colors": [
-      "Kick1", "Kick2"
-    ],
+    "colors": "Kick1",
     "base": "SUI",
     "tp": "Alessandro Alunni Bravi",
     "team_url": "https://www.sauber-group.com/",
@@ -103,9 +93,7 @@
     "drivers": [
       4, 81
     ],
-    "colors": [
-      "Mc1", "Mc2"
-    ],
+    "colors": "Mc1",
     "base": "GBR",
     "tp": "Andrea Stella",
     "team_url": "https://www.mclaren.com/racing/formula-1/",
@@ -122,9 +110,7 @@
     "drivers": [
       44, 63
     ],
-    "colors": [
-      "Merc1", "Merc2"
-    ],
+    "colors": "Merc1",
     "base": "GER",
     "tp": "Toto Wolff",
     "team_url": "https://www.mercedesamgf1.com/en/",
@@ -141,9 +127,7 @@
     "drivers": [
       3, 22
     ],
-    "colors": [
-      "VCAB1", "VCAB2"
-    ],
+    "colors": "VCAB1",
     "base": "ITA",
     "tp": "Laurent Mekies",
     "team_url": "http://visacashapprb.com/",
@@ -160,9 +144,7 @@
     "drivers": [
       1, 11
     ],
-    "colors": [
-      "RBR1", "RBR2"
-    ],
+    "colors": "RBR1",
     "base": "AUT",
     "tp": "Christian Horner",
     "team_url": "https://redbullracing.com/",
@@ -179,9 +161,7 @@
     "drivers": [
       2, 23
     ],
-    "colors": [
-      "Will1", "Will2"
-    ],
+    "colors": "Will1",
     "base": "GBR",
     "tp": "James Vowles",
     "team_url": "https://www.williamsf1.com/",
