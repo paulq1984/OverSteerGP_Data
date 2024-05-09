@@ -13,9 +13,10 @@
     ],
     "base": "FRA",
     "tp": "Bruno Famin",
-    "test_drivers": ["Jack Doohan"],
     "team_url": "https://www.alpine-cars.co.uk/formula-1.html",
-    "logo": "alpine-f1-team-logo-1"
+    "logo": "alpine-f1-team-logo-1",
+    "tc: "David Sanchez",
+    "first_entry": "1986",
   },
   {
     "id": 2,
@@ -31,9 +32,10 @@
     ],
     "base": "GBR",
     "tp": "Mike Krack",
-    "test_drivers": ["Felipe Drugovich", "Stoffel Vandoorne"],
     "team_url": "https://www.astonmartinf1.com/",
-    "logo": "aston-martin-cognizant-f1-team-1"
+    "logo": "aston-martin-cognizant-f1-team-1",
+    "tc: "Dan Fallows",
+    "first_entry": "2018",
   },
   {
     "id": 3,
@@ -42,16 +44,17 @@
     "chassis": "SF-24",
     "power_unit": "Ferrari 066/12",
     "drivers": [
-      16, 55, 38
+      16, 55,
     ],
     "colors": [
       "Ferrari1", "Ferrari2"
     ],
     "base": "ITA",
     "tp": "Frédéric Vasseur",
-    "test_drivers": ["Antonio Giovinazzi", "Robert Shwartzman", "Oliver Bearman"],
     "team_url": "https://www.ferrari.com/formula1",
-    "logo":"scuderia-ferrari-logo-1"
+    "logo":"scuderia-ferrari-logo-1",
+    "tc: "Enrico Cardile / Enrico Gualtieri",
+    "first_entry": "1950",
   },
   {
     "id": 4,
@@ -67,9 +70,10 @@
     ],
     "base": "USA",
     "tp": "Ayao Komatsu",
-    "test_drivers": ["Oliver Bearman", "Pietro Fittipaldi"],
     "team_url": "https://www.haasf1team.com/",
-    "logo": "haas-logo-1"
+    "logo": "haas-logo-1",
+    "tc: "Andrea De Zordo",
+    "first_entry": "2016",
   },
   {
     "id": 5,
@@ -84,10 +88,11 @@
       "Kick1", "Kick2"
     ],
     "base": "SUI",
-    "tp": "Andreas Seidl",
-    "test_drivers": ["Théo Pourchaire", "Zane Maloney"],
+    "tp": "Alessandro Alunni Bravi",
     "team_url": "https://www.sauber-group.com/",
-    "logo": "logo-stakef1team-rgb-pos-1"
+    "logo": "logo-stakef1team-rgb-pos-1",
+    "tc: "James Key",
+    "first_entry": "1993",
   },
   {
     "id": 6,
@@ -102,10 +107,11 @@
       "Mc1", "Mc2"
     ],
     "base": "GBR",
-    "tp": "Zak Brown",
-    "test_drivers": ["Pato O'Ward", "Ryō Hirakawa"],
+    "tp": "Andrea Stella",
     "team_url": "https://www.mclaren.com/racing/formula-1/",
-    "logo": "mclaren-f1-team-logo-1"
+    "logo": "mclaren-f1-team-logo-1",
+    "tc: "Peter Prodromou / Neil Houldey",
+    "first_entry": "1966",
   },
   {
     "id": 7,
@@ -121,9 +127,10 @@
     ],
     "base": "GER",
     "tp": "Toto Wolff",
-    "test_drivers": ["Mick Schumacher", "Frederik Vestia"],
     "team_url": "https://www.mercedesamgf1.com/en/",
-    "logo":"mercedes-f1-logo-1"
+    "logo":"mercedes-f1-logo-1",
+    "tc: "James Allison",
+    "first_entry": "1970",
   },
   {
     "id": 8,
@@ -139,9 +146,10 @@
     ],
     "base": "ITA",
     "tp": "Laurent Mekies",
-    "test_drivers": ["Liam Lawson"],
     "team_url": "http://visacashapprb.com/",
-    "logo" : "visa-cash-app-rb-logo"
+    "logo" : "visa-cash-app-rb-logo",
+    "tc: "Jody Egginton",
+    "first_entry": "1986",
   },
   {
     "id": 9,
@@ -157,9 +165,10 @@
     ],
     "base": "AUT",
     "tp": "Christian Horner",
-    "test_drivers": ["Liam Lawson"],
     "team_url": "https://redbullracing.com/",
-    "logo" : "red-bull-racing-logo-1"
+    "logo" : "red-bull-racing-logo-1",
+    "tc: "Pierre Waché",
+    "first_entry": "1997",
   },
   {
     "id": 10,
@@ -175,8 +184,9 @@
     ],
     "base": "GBR",
     "tp": "James Vowles",
-    "test_drivers": ["Liam Lawson"],
     "team_url": "https://www.williamsf1.com/",
-    "logo" : "williams-racing-logo-1"
+    "logo" : "williams-racing-logo-1",
+    "tc: "Pat Fry",
+    "first_entry": "1978",
   }
 ]
