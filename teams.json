@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "BWT Alpine F1 Team",
+    "name": "Alpine",
     "constructor": "Alpine-Renault",
     "chassis": "A524",
     "power_unit": "Renault E-Tech RE24",
@@ -20,7 +20,7 @@
   },
   {
     "id": 2,
-    "name": "Aston Martin Aramco F1 Team",
+    "name": "Aston Martin",
     "constructor": "Aston Martin Aramco-Mercedes",
     "chassis": "AMR24",
     "power_unit": "Mercedes-AMG F1 M15",
@@ -39,7 +39,7 @@
   },
   {
     "id": 3,
-    "name": "Scuderia Ferrari",
+    "name": "Ferrari",
     "constructor": "Ferrari",
     "chassis": "SF-24",
     "power_unit": "Ferrari 066/12",
@@ -58,7 +58,7 @@
   },
   {
     "id": 4,
-    "name": "MoneyGram Haas F1 Team",
+    "name": "Haas",
     "constructor": "Hass-Ferrari",
     "chassis": "VF-24",
     "power_unit": "Ferrari 066/10",
@@ -77,7 +77,7 @@
   },
   {
     "id": 5,
-    "name": "Stake F1 Team Kick Sauber",
+    "name": "Kick Sauber",
     "constructor": "Kick Sauber-Ferrari",
     "chassis": "C44",
     "power_unit": "Ferrari 066/12",
@@ -96,7 +96,7 @@
   },
   {
     "id": 6,
-    "name": "McLaren Formula 1 Team",
+    "name": "McLaren",
     "constructor": "McLaren-Mercedes",
     "chassis": "MCL38",
     "power_unit": "Mercedes-AMG F1 M15",
@@ -115,7 +115,7 @@
   },
   {
     "id": 7,
-    "name": "Mercedes-AMG Petronas F1 Team",
+    "name": "Mercedes",
     "constructor": "Mercedes",
     "chassis": "W15",
     "power_unit": "Mercedes-AMG F1 M15",
@@ -134,7 +134,7 @@
   },
   {
     "id": 8,
-    "name": "Visa Cash App RB F1 Team",
+    "name": "RB",
     "constructor": "RB-Honda RBPT",
     "chassis": "VCARB01",
     "power_unit": "Honda RBPTH002",
@@ -153,7 +153,7 @@
   },
   {
     "id": 9,
-    "name": "Oracle Red Bull Racing",
+    "name": "Red Bull Racing",
     "constructor": "Red Bull Racing-Honda RBPT",
     "chassis": "RB20",
     "power_unit": "Honda RBPTH002",
@@ -172,7 +172,7 @@
   },
   {
     "id": 10,
-    "name": "Williams Racing",
+    "name": "Williams",
     "constructor": "Williams-Mercedes",
     "chassis": "FW46",
     "power_unit": "Mercedes-AMG F1 M15",
