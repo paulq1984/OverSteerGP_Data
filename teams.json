@@ -15,7 +15,7 @@
     "tp": "Bruno Famin",
     "team_url": "https://www.alpine-cars.co.uk/formula-1.html",
     "logo": "alpine-f1-team-logo-1",
-    "tc: "David Sanchez",
+    "tc": "David Sanchez",
     "first_entry": "1986",
   },
   {
@@ -34,7 +34,7 @@
     "tp": "Mike Krack",
     "team_url": "https://www.astonmartinf1.com/",
     "logo": "aston-martin-cognizant-f1-team-1",
-    "tc: "Dan Fallows",
+    "tc": "Dan Fallows",
     "first_entry": "2018",
   },
   {
@@ -53,7 +53,7 @@
     "tp": "Frédéric Vasseur",
     "team_url": "https://www.ferrari.com/formula1",
     "logo":"scuderia-ferrari-logo-1",
-    "tc: "Enrico Cardile / Enrico Gualtieri",
+    "tc": "Enrico Cardile / Enrico Gualtieri",
     "first_entry": "1950",
   },
   {
@@ -72,7 +72,7 @@
     "tp": "Ayao Komatsu",
     "team_url": "https://www.haasf1team.com/",
     "logo": "haas-logo-1",
-    "tc: "Andrea De Zordo",
+    "tc": "Andrea De Zordo",
     "first_entry": "2016",
   },
   {
@@ -91,7 +91,7 @@
     "tp": "Alessandro Alunni Bravi",
     "team_url": "https://www.sauber-group.com/",
     "logo": "logo-stakef1team-rgb-pos-1",
-    "tc: "James Key",
+    "tc": "James Key",
     "first_entry": "1993",
   },
   {
@@ -110,7 +110,7 @@
     "tp": "Andrea Stella",
     "team_url": "https://www.mclaren.com/racing/formula-1/",
     "logo": "mclaren-f1-team-logo-1",
-    "tc: "Peter Prodromou / Neil Houldey",
+    "tc": "Peter Prodromou / Neil Houldey",
     "first_entry": "1966",
   },
   {
@@ -129,7 +129,7 @@
     "tp": "Toto Wolff",
     "team_url": "https://www.mercedesamgf1.com/en/",
     "logo":"mercedes-f1-logo-1",
-    "tc: "James Allison",
+    "tc": "James Allison",
     "first_entry": "1970",
   },
   {
@@ -148,7 +148,7 @@
     "tp": "Laurent Mekies",
     "team_url": "http://visacashapprb.com/",
     "logo" : "visa-cash-app-rb-logo",
-    "tc: "Jody Egginton",
+    "tc": "Jody Egginton",
     "first_entry": "1986",
   },
   {
@@ -167,7 +167,7 @@
     "tp": "Christian Horner",
     "team_url": "https://redbullracing.com/",
     "logo" : "red-bull-racing-logo-1",
-    "tc: "Pierre Waché",
+    "tc": "Pierre Waché",
     "first_entry": "1997",
   },
   {
@@ -186,7 +186,7 @@
     "tp": "James Vowles",
     "team_url": "https://www.williamsf1.com/",
     "logo" : "williams-racing-logo-1",
-    "tc: "Pat Fry",
+    "tc": "Pat Fry",
     "first_entry": "1978",
   }
 ]
