@@ -77,11 +77,11 @@
       "countryShort": "ITA",
       "countryFull": "Emilia Romagna",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 178,
@@ -89,11 +89,11 @@
       "countryShort": "MCO",
       "countryFull": "Monaco",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 179,
@@ -101,11 +101,11 @@
       "countryShort": "CAN",
       "countryFull": "Canadian",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 180,
@@ -113,11 +113,11 @@
       "countryShort": "ESP",
       "countryFull": "Spanish",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 181,
@@ -125,11 +125,11 @@
       "countryShort": "AUT",
       "countryFull": "Austrian",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 182,
@@ -137,11 +137,11 @@
       "countryShort": "GBR",
       "countryFull": "British",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 183,
@@ -149,11 +149,11 @@
       "countryShort": "HUN",
       "countryFull": "Hungarian",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 184,
@@ -161,11 +161,11 @@
       "countryShort": "BEL",
       "countryFull": "Belgian",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 185,
@@ -173,11 +173,11 @@
       "countryShort": "NLD",
       "countryFull": "Dutch",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 186,
@@ -185,11 +185,11 @@
       "countryShort": "ITA",
       "countryFull": "Italian",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 187,
@@ -197,11 +197,11 @@
       "countryShort": "AZE",
       "countryFull": "Azerbaijan",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 188,
@@ -209,11 +209,11 @@
       "countryShort": "SGP",
       "countryFull": "Singapore",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 189,
@@ -221,11 +221,11 @@
       "countryShort": "USA",
       "countryFull": "United States",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 190,
@@ -233,11 +233,11 @@
       "countryShort": "MEX",
       "countryFull": "Mexican",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 191,
@@ -245,11 +245,11 @@
       "countryShort": "BRA",
       "countryFull": "Brazilian",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 192,
@@ -257,11 +257,11 @@
       "countryShort": "USA",
       "countryFull": "Las Vegas",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 193,
@@ -269,11 +269,11 @@
       "countryShort": "QAT",
       "countryFull": "Lusail",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     },
     {
       "id": 194,
@@ -281,10 +281,10 @@
       "countryShort": "ARE",
       "countryFull": "Abu Dhabi",
       "completed": false,
-      "pole": "",
-      "winner": "",
-      "second": "",
-      "third": "",
-      "fastestLap": ""
+      "pole": 0,
+      "winner": 0,
+      "second": 0,
+      "third": 0,
+      "fastestLap": 0
     }
   ]
