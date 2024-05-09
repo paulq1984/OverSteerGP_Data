@@ -6,7 +6,7 @@
     "first_win": "2020 Italian Grand Prix",
     "team" : "BWT Alpine F1 Team",
     "country": "FRA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2022_French_Grand_Prix_%2852279065728%29_%28cropped%29.png/440px-2022_French_Grand_Prix_%2852279065728%29_%28cropped%29.png"
+    "image": "piegas01"
    },
    {
     "id": 31,
@@ -15,7 +15,7 @@
     "first_win": "2021 Hungarian Grand Prix",
     "team" : "BWT Alpine F1 Team",
     "country": "FRA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Esteban_Ocon_2017_Malaysia_1.jpg/440px-Esteban_Ocon_2017_Malaysia_1.jpg"
+    "image": "estoco01"
    },
    {
     "id": 14,
@@ -24,7 +24,7 @@
     "first_win": "2003 Hungarian Grand Prix",
     "team" : "Aston Martin Aramco-Mercedes",
     "country": "ESP",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fernando_Alonso_NASCAR_Media_Tour_2018.jpg/440px-Fernando_Alonso_NASCAR_Media_Tour_2018.jpg"
+    "image": "feralo01"
    },
    {
     "id": 18,
@@ -33,7 +33,7 @@
     "first_win": null,
     "team" : "Aston Martin Aramco-Mercedes",
     "country": "CAN",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/FIA_F1_Austria_2022_Lance_Stroll_%28cropped_2%29.jpg/440px-FIA_F1_Austria_2022_Lance_Stroll_%28cropped_2%29.jpg"
+    "image": "lanstr01"
    },
    {
     "id": 16,
@@ -42,7 +42,7 @@
     "first_win": "2019 Belgian Grand Prix",
     "team" : "Scuderia Ferrari",
     "country": "MCO",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Charles-Leclerc_%28cropped_1%29.jpg/440px-Charles-Leclerc_%28cropped_1%29.jpg"
+    "image": "chalec01"
    },
    {
     "id": 55,
@@ -51,16 +51,7 @@
     "first_win": "2022 British Grand Prix",
     "team" : "Scuderia Ferrari",
     "country": "ESP",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Formula1Gabelhofen2022_%2804%29_%28cropped%29.jpg/500px-Formula1Gabelhofen2022_%2804%29_%28cropped%29.jpg"
-   },
-   {
-    "id": 38,
-    "name": "Oliver Bearman",
-    "first_entry": "2024 Saudi Arabian Grand Prix",
-    "first_win": null,
-    "team" : "Scuderia Ferrari",
-    "country": "GBR",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ollie_Bearman_Austria_2022.jpg"
+    "image": "carsai01"
    },
    {
     "id": 20,
@@ -69,7 +60,7 @@
     "first_win": null,
     "team" : "MoneyGram Haas F1 Team",
     "country": "DEN",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kevin_Magnussen%2C_2019_Formula_One_Tests_Barcelona_%28cropped%29.jpg/440px-Kevin_Magnussen%2C_2019_Formula_One_Tests_Barcelona_%28cropped%29.jpg"
+    "image": "kevmag01"
    },
    {
     "id": 27,
@@ -78,7 +69,7 @@
     "first_win": null,
     "team" : "MoneyGram Haas F1 Team",
     "country": "GER",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Nico_Hulkenberg_2016_Malaysia.jpg/440px-Nico_Hulkenberg_2016_Malaysia.jpg"
+    "image": "nichul01"
    },
    {
     "id": 24,
@@ -87,7 +78,7 @@
     "first_win": null,
     "team" : "Stake F1 Team Kick Sauber",
     "country": "CHN",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zhou_Guanyu_at_the_2022_Austrian_Grand_Prix.jpg/440px-Zhou_Guanyu_at_the_2022_Austrian_Grand_Prix.jpg"
+    "image": "guazho01"
    },
    {
     "id": 77,
@@ -96,16 +87,16 @@
     "first_win": "2017 Russian Grand Prix",
     "team" : "Stake F1 Team Kick Sauber",
     "country": "FIN",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Valtteri_Bottas_at_the_2022_Austrian_Grand_Prix.jpg/440px-Valtteri_Bottas_at_the_2022_Austrian_Grand_Prix.jpg"
+    "image": "valbot01"
    },
    {
     "id": 4,
     "name": "Lando Norris",
     "first_entry": "2019 Australian Grand Prix",
-    "first_win": null,
+    "first_win": "2024 Miami Grand Prix",
     "team" : "McLaren Formula 1 Team",
     "country": "GBR",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lando_Norris%2C_British_GP_2022_%2852382611003%29_%28cropped%29.jpg/440px-Lando_Norris%2C_British_GP_2022_%2852382611003%29_%28cropped%29.jpg"
+    "image": "lannor01"
    },
    {
     "id": 81,
@@ -114,16 +105,16 @@
     "first_win": null,
     "team" : "McLaren Formula 1 Team",
     "country": "AUS",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Oscar_Piastri_at_the_2023_Australian_Grand_Prix.jpg/440px-Oscar_Piastri_at_the_2023_Australian_Grand_Prix.jpg"
+    "image": "oscpia01"
    },
    {
     "id": 44,
-    "name": "Sir Lewis Hamilton",
+    "name": "Lewis Hamilton",
     "first_entry": "2007 Australian Grand Prix",
     "first_win": "2007 Canadian Grand Prix",
     "team" : "Mercedes-AMG Petronas F1 Team",
     "country": "GBR",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_%2852498120773%29_%28cropped%29.jpg/440px-Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_%2852498120773%29_%28cropped%29.jpg"
+    "image": "lewham01"
    },
    {
     "id": 63,
@@ -132,7 +123,7 @@
     "first_win": "2022 São Paulo Grand Prix",
     "team" : "Mercedes-AMG Petronas F1 Team",
     "country": "GBR",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/George_Russell%2C_British_GP_2022_%2852381430692%29_%28cropped%29.jpg/470px-George_Russell%2C_British_GP_2022_%2852381430692%29_%28cropped%29.jpg"
+    "image": "georus01"
    },
    {
     "id": 3,
@@ -141,7 +132,7 @@
     "first_win": "2014 Canadian Grand Prix",
     "team" : "Visa Cash App RB F1 Team",
     "country": "AUS",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Daniel_Ricciardo%2C_British_GP_2022_%2852382610448%29_%28cropped%29.jpg/440px-Daniel_Ricciardo%2C_British_GP_2022_%2852382610448%29_%28cropped%29.jpg"
+    "image": "danric01"
    },
    {
     "id": 22,
@@ -150,7 +141,7 @@
     "first_win": null,
     "team" : "Visa Cash App RB F1 Team",
     "country": "JPN",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2021_US_GP%2C_Tsunoda.jpg/440px-2021_US_GP%2C_Tsunoda.jpg"
+    "image": "yuktsu01"
    },
    {
     "id": 1,
@@ -159,7 +150,7 @@
     "first_win": "2016 Spanish Grand Prix",
     "team" : "Oracle Red Bull Racing",
     "country": "NLD",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Max_Verstappen_2017_Malaysia_3_%28cropped%29.jpg/440px-Max_Verstappen_2017_Malaysia_3_%28cropped%29.jpg"
+    "image": "maxver01"
    },
    {
     "id": 11,
@@ -168,7 +159,7 @@
     "first_win": "2020 Sakhir Grand Prix",
     "team" : "Oracle Red Bull Racing",
     "country": "MEX",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sergio_P%C3%A9rez_2019_%28cropped%29.jpg/440px-Sergio_P%C3%A9rez_2019_%28cropped%29.jpg"
+    "image": "serper01"
    },
    {
     "id": 2,
@@ -177,7 +168,7 @@
     "first_win": null,
     "team" : "Williams Racing",
     "country": "USA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logan_Sargeant_Austria_2022.jpg/440px-Logan_Sargeant_Austria_2022.jpg"
+    "image": "logsar01"
    },
    {
     "id": 23,
@@ -186,6 +177,6 @@
     "first_win": null,
     "team" : "Williams Racing",
     "country": "THA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alex_albon_%2851383514844%29_%28cropped%29.jpg/420px-Alex_albon_%2851383514844%29_%28cropped%29.jpg"
+    "image": "alealb01"
    }
   ]
