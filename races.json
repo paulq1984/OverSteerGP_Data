@@ -19,7 +19,8 @@
       "lapRecordtime": "1:31.447",
       "lapRecorddriver": "Pedro de la Rosa", 
       "lapRecordyear": 2005,
-      "dates": "29-02 Feb-Mar"
+      "dates": "29-02 Feb-Mar",
+      "map": "bahrain"
     },
     {
       "id": 2,
@@ -41,7 +42,8 @@
       "lapRecordtime": "1:30.734",
       "lapRecorddriver": "Lewis Hamilton", 
       "lapRecordyear": 2021,
-      "dates": "07-09 Mar"
+      "dates": "07-09 Mar",
+      "map": "sa"
     },
     {
       "id": 3,
@@ -63,7 +65,8 @@
       "lapRecordtime": "1:19.813",
       "lapRecorddriver": "Charles Leclerc", 
       "lapRecordyear": 2024,
-      "dates": "22-24 Mar"
+      "dates": "22-24 Mar",
+      "map": "aus"
     },
     {
       "id": 4,
@@ -85,7 +88,8 @@
       "lapRecordtime": "1:30.98",
       "lapRecorddriver": "Lewis Hamilton", 
       "lapRecordyear": 2019,
-      "dates": "05-07 Apr"
+      "dates": "05-07 Apr",
+      "map": "jap"
     },
     {
       "id": 5,
@@ -107,7 +111,8 @@
       "lapRecordtime": "1:32.238",
       "lapRecorddriver": "Michael Schumacher", 
       "lapRecordyear": 2004,
-      "dates": "19-21 Apr"
+      "dates": "19-21 Apr",
+      "map": "chn"
     },
     {
       "id": 6,
@@ -129,7 +134,8 @@
       "lapRecordtime": "1:29.708",
       "lapRecorddriver": "Max Verstappen", 
       "lapRecordyear": 2023,
-      "dates": "03-05 May"
+      "dates": "03-05 May",
+      "map": "mia"
     },
     {
       "id": 7,
@@ -150,7 +156,8 @@
       "lapRecordtime": "1:15.484",
       "lapRecorddriver": "Lewis Hamilton", 
       "lapRecordyear": 2020,
-      "dates": "17-19 May"
+      "dates": "17-19 May",
+      "map": "er"
     },
     {
       "id": 8,
@@ -172,7 +179,8 @@
       "lapRecordtime": "1:12.909",
       "lapRecorddriver": "Lewis Hamilton", 
       "lapRecordyear": 2021,
-      "dates": "24-26 May"
+      "dates": "24-26 May",
+      "map": "mon"
     },
     {
       "id": 9,
@@ -194,7 +202,8 @@
       "lapRecordtime": "1:13.078",
       "lapRecorddriver": "Valtteri Bottas", 
       "lapRecordyear": 2019,
-      "dates": "07-09 Jun"
+      "dates": "07-09 Jun",
+      "map": "can"
     },
     {
       "id": 10,
@@ -216,7 +225,8 @@
       "lapRecordtime": "1:16.330",
       "lapRecorddriver": "Max Verstappen", 
       "lapRecordyear": 2023,
-      "dates": "21-23 Jun"
+      "dates": "21-23 Jun",
+      "map": "cbc"
     },
     {
       "id": 11,
@@ -238,7 +248,8 @@
       "lapRecordtime": "1:05.619",
       "lapRecorddriver": "Carlos Sainz", 
       "lapRecordyear": 2020,
-      "dates": "28-30 Jun"
+      "dates": "28-30 Jun",
+      "map": "aust"
     },
     {
       "id": 12,
@@ -260,7 +271,8 @@
       "lapRecordtime": "1:27.097",
       "lapRecorddriver": "Max Verstappen", 
       "lapRecordyear": 2020,
-      "dates": "05-07 Jul"
+      "dates": "05-07 Jul",
+      "map": "gbr"
     },
     {
       "id": 13,
@@ -282,7 +294,8 @@
       "lapRecordtime": "1:16.627",
       "lapRecorddriver": "Lewis Hamilton", 
       "lapRecordyear": 2020,
-      "dates": "19-21 Jul"
+      "dates": "19-21 Jul",
+      "map": "hun"
     },
     {
       "id": 14,
@@ -304,7 +317,8 @@
       "lapRecordtime": "1:46.286",
       "lapRecorddriver": "Valtteri Bottas", 
       "lapRecordyear": 2018,
-      "dates": "26-28 Jul"
+      "dates": "26-28 Jul",
+      "map": "spa"
     },
     {
       "id": 15,
@@ -326,7 +340,8 @@
       "lapRecordtime": "1:11.097",
       "lapRecorddriver": "Lewis Hamilton", 
       "lapRecordyear": 2020,
-      "dates": "23-25 Aug"
+      "dates": "23-25 Aug",
+      "map": "nld"
     },
     {
       "id": 16,
@@ -348,7 +363,8 @@
       "lapRecordtime": "1:21.046",
       "lapRecorddriver": "Rubens Barrichello", 
       "lapRecordyear": 2004,
-      "dates": "30-01 Aug-Sep"
+      "dates": "30-01 Aug-Sep",
+      "map": "monza"
     },
     {
       "id": 17,
@@ -370,7 +386,8 @@
       "lapRecordtime": "1:43.009",
       "lapRecorddriver": "Charles Leclerc", 
       "lapRecordyear": 2019,
-      "dates": "13-15 Sep"
+      "dates": "13-15 Sep",
+      "map": "bak"
     },
     {
       "id": 18,
@@ -392,7 +409,8 @@
       "lapRecordtime": "1:35.867",
       "lapRecorddriver": "Lewis Hamilton", 
       "lapRecordyear": 2023,
-      "dates": "20-22 Sep"
+      "dates": "20-22 Sep",
+      "map": "sing"
     },
     {
       "id": 19,
@@ -414,7 +432,8 @@
       "lapRecordtime": "1:36.169",
       "lapRecorddriver": "Charles Leclerc", 
       "lapRecordyear": 2019,
-      "dates": "18-20 Oct"
+      "dates": "18-20 Oct",
+      "map": "austin"
     },
     {
       "id": 20,
@@ -436,7 +455,8 @@
       "lapRecordtime": "1:17.774",
       "lapRecorddriver": "Valtteri Bottas", 
       "lapRecordyear": 2021,
-      "dates": "25-27 Oct"
+      "dates": "25-27 Oct",
+      "map": "mex"
     },
     {
       "id": 21,
@@ -458,7 +478,8 @@
       "lapRecordtime": "1:10.540",
       "lapRecorddriver": "Valtteri Bottas", 
       "lapRecordyear": 2018,
-      "dates": "01-03 Nov"
+      "dates": "01-03 Nov",
+      "map": "sanp"
     },
     {
       "id": 22,
@@ -480,7 +501,8 @@
       "lapRecordtime": "1:35.490",
       "lapRecorddriver": "Oscar Piastri", 
       "lapRecordyear": 2023,
-      "dates": "21-23 Nov"
+      "dates": "21-23 Nov",
+      "map": "vegas"
     },
     {
       "id": 23,
@@ -502,7 +524,8 @@
       "lapRecordtime": "1:24.319",
       "lapRecorddriver": "Max Verstappen", 
       "lapRecordyear": 2023,
-      "dates": "29-01 Nov-Dec"
+      "dates": "29-01 Nov-Dec",
+      "map": "qat"
     },
     {
       "id": 24,
@@ -524,6 +547,7 @@
       "lapRecordtime": "1:26.103",
       "lapRecorddriver": "Max Verstappen", 
       "lapRecordyear": 2021,
-      "dates": "06-08 Dec"
+      "dates": "06-08 Dec",
+      "map": "yasm"
     }
   ]
